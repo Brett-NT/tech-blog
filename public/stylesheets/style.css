@@ -95,6 +95,11 @@ main {
   background-color: #b2ac88;
 }
 
+.title a {
+  font-size: 30px;
+  font-style: bold;
+}
+
 .btn-no-style {
   background: none;
   border: none;
@@ -135,6 +140,15 @@ main {
 .edit-link {
   display: block;
   margin: -1.5% 0 2% 0;
+}
+
+.edit-post-container {
+  display: block;
+}
+
+.post-body {
+  display: block;
+  margin-top: 10px;
 }
 
 .upvote-btn {
@@ -180,3 +194,4 @@ footer {
   padding: 1%;
   font-size: 110%;
 }
+
